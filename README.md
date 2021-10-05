@@ -4,7 +4,8 @@ This program will download random twitter handles to a text file. This will use 
 
 ## Getting Started
 
-To use any of the APIs provided by Twitter, first you need a Twitter Developer account. Then you need to gather a series of Twitter API keys, which will be used to connect to such API. To get them refer https://developer.twitter.com/en/docs/authentication/oauth-2-0/bearer-tokens
+To use any of the APIs provided by Twitter, first you need a Twitter Developer account. Then you need to gather a series of Twitter API keys, which will be used to connect to such API.
+To get them refer https://developer.twitter.com/en/docs/authentication/oauth-2-0/bearer-tokens
 
 ## Usage
 
